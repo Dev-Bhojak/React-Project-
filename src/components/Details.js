@@ -31,6 +31,7 @@ export default class Details extends Component {
                                     <p className="text-capitalize font-weight-bold mt-3 mb-0">
                                         {info}
                                     </p>
+                                    <h2>$ {price}</h2>
                                 </div>
                             </div>
                             {/* buttons */}
