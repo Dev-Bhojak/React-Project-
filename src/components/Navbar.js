@@ -15,9 +15,9 @@ https://www.iconfinder.com/Makoto_msk */}
                     <i className="fas fa-mobile-alt fa-3x"></i>
                 </Link>
                 <ul className="navbar-nav  align-items-center">
-                    <li className="nav-item ml-5">
+                    <li className="nav-item ml-4">
                         <Link to="/" className="nav-link">
-                            Old Phones
+                            <h3>Old Phones</h3>
                         </Link>
                     </li>
                 </ul>
